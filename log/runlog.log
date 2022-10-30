@@ -311,3 +311,15 @@
 [INFO][22-09-21][com.itheima.controller.MybatisController]cookies为空
 [INFO][22-09-21][com.itheima.controller.MybatisController]获取的false
 [INFO][22-09-21][com.itheima.controller.MybatisController]添加用户的数量是:1
+[INFO][22-10-30][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-10-30][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-10-30][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-10-30][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-10-30][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-10-30][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-10-30][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-10-30][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-10-30][com.itheima.controller.MybatisController]查询用户信息[]
+[INFO][22-10-30][com.itheima.controller.MybatisController]cookies为空
+[INFO][22-10-30][com.itheima.controller.MybatisController]获取的false
+[INFO][22-10-30][com.itheima.controller.MybatisController]添加用户的数量是:1
