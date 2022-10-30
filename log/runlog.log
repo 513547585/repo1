@@ -1,0 +1,313 @@
+[INFO][22-06-28][com.itheima.controller.MybatisController]getUserInfo获取到的用户数量是
+3[User{, username='string', password='string', name='string'}, User{, username='string', password='string', name='string'}, User{, username='456', password='123', name='王玮铠'}]
+[INFO][22-06-28][com.itheima.controller.MybatisController]getUserInfo获取到的用户
+[User{, username='string', password='string', name='string'}, User{, username='string', password='string', name='string'}, User{, username='456', password='123', name='王玮铠'}]
+[INFO][22-06-28][com.itheima.controller.MybatisController]User{, username='123456', password='19940493', name='喻明凤'}
+[INFO][22-06-28][com.itheima.controller.MybatisController]cookies为空
+[INFO][22-06-28][com.itheima.controller.MybatisController]添加用户的数量是:1
+[INFO][22-06-28][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-06-28][com.itheima.controller.MybatisController]cookies为空
+[INFO][22-06-28][com.itheima.controller.MybatisController]获取的false
+[INFO][22-06-28][com.itheima.controller.MybatisController]添加用户的数量是:1
+[INFO][22-06-28][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-06-28][com.itheima.controller.MybatisController]名称过长不能大于3
+[INFO][22-06-28][com.itheima.controller.MybatisController]cookies为空
+[INFO][22-06-28][com.itheima.controller.MybatisController]获取的false
+[INFO][22-06-28][com.itheima.controller.MybatisController]添加用户的数量是:1
+[INFO][22-06-28][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-06-28][com.itheima.controller.MybatisController]名称过长不能大于3
+[INFO][22-06-28][com.itheima.controller.MybatisController]cookies为空
+[INFO][22-06-28][com.itheima.controller.MybatisController]获取的false
+[INFO][22-06-28][com.itheima.controller.MybatisController]添加用户的数量是:1
+[INFO][22-07-03][com.itheima.controller.MybatisController]getUserInfo获取到的用户数量是
+7[User{, username='string', password='string', name='string'}, User{, username='string', password='string', name='string'}, User{, username='456', password='123', name='王玮铠'}, User{, username='123456', password='19940493', name='喻明凤'}, User{, username='string', password='string', name='string'}, User{, username='string', password='string', name='string'}, User{, username='string', password='string', name='string'}]
+[INFO][22-07-03][com.itheima.controller.MybatisController]getUserInfo获取到的用户
+[User{, username='string', password='string', name='string'}, User{, username='string', password='string', name='string'}, User{, username='456', password='123', name='王玮铠'}, User{, username='123456', password='19940493', name='喻明凤'}, User{, username='string', password='string', name='string'}, User{, username='string', password='string', name='string'}, User{, username='string', password='string', name='string'}]
+[INFO][22-07-03][com.itheima.controller.MybatisController]User{, username='string', password='string', name='31234567890098765432112453453453453453453454354353453453454533453443535'}
+[INFO][22-07-03][com.itheima.controller.MybatisController]名称过长不能大于30
+[INFO][22-07-03][com.itheima.controller.MybatisController]cookies为空
+[INFO][22-07-03][com.itheima.controller.MybatisController]获取的false
+[INFO][22-07-03][com.itheima.controller.MybatisController]User{, username='string', password='string', name='31234567890098765432112453453453453453453454354353453453454533453443535'}
+[INFO][22-07-03][com.itheima.controller.MybatisController]名称过长不能大于30
+[INFO][22-07-03][com.itheima.controller.MybatisController]cookies为空
+[INFO][22-07-03][com.itheima.controller.MybatisController]获取的false
+[INFO][22-07-03][com.itheima.controller.MybatisController]User{, username='string', password='string', name='31234567890098765432112453453453453453453454354353453453454533453443535'}
+[INFO][22-07-03][com.itheima.controller.MybatisController]名称过长不能大于30
+[INFO][22-07-03][com.itheima.controller.MybatisController]cookies为空
+[INFO][22-07-03][com.itheima.controller.MybatisController]获取的false
+[INFO][22-07-03][com.itheima.controller.MybatisController]User{, username='string', password='string', name='31234567890098765432112453453453453453453454354353453453454533453443535'}
+[INFO][22-07-03][com.itheima.controller.MybatisController]名称过长不能大于30
+[INFO][22-07-03][com.itheima.controller.MybatisController]cookies为空
+[INFO][22-07-03][com.itheima.controller.MybatisController]获取的false
+[INFO][22-07-03][com.itheima.controller.MybatisController]User{, username='string', password='string', name='31234567890098765432112453453453453453453454354353453453454533453443535'}
+[INFO][22-07-03][com.itheima.controller.MybatisController]名称过长不能大于30
+[INFO][22-07-03][com.itheima.controller.MybatisController]cookies为空
+[INFO][22-07-03][com.itheima.controller.MybatisController]获取的false
+[INFO][22-07-03][com.itheima.controller.MybatisController]User{, username='string', password='string', name='31234567890098765432112453453453453453453454354353453453454533453443535'}
+[INFO][22-07-03][com.itheima.controller.MybatisController]名称过长不能大于30
+[INFO][22-07-03][com.itheima.controller.MybatisController]cookies为空
+[INFO][22-07-03][com.itheima.controller.MybatisController]获取的false
+[INFO][22-07-27][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-07-27][com.itheima.controller.MybatisController]cookies为空
+[INFO][22-07-27][com.itheima.controller.MybatisController]获取的false
+[INFO][22-07-27][com.itheima.controller.MybatisController]添加用户的数量是:1
+[INFO][22-07-27][com.itheima.controller.MybatisController]getUserInfo获取到的用户数量是
+8[User{, username='string', password='string', name='string'}, User{, username='string', password='string', name='string'}, User{, username='456', password='123', name='王玮铠'}, User{, username='123456', password='19940493', name='喻明凤'}, User{, username='string', password='string', name='string'}, User{, username='string', password='string', name='string'}, User{, username='string', password='string', name='string'}, User{, username='string', password='string', name='string'}]
+[INFO][22-07-27][com.itheima.controller.MybatisController]getUserInfo获取到的用户
+[User{, username='string', password='string', name='string'}, User{, username='string', password='string', name='string'}, User{, username='456', password='123', name='王玮铠'}, User{, username='123456', password='19940493', name='喻明凤'}, User{, username='string', password='string', name='string'}, User{, username='string', password='string', name='string'}, User{, username='string', password='string', name='string'}, User{, username='string', password='string', name='string'}]
+[INFO][22-07-27][com.itheima.controller.MybatisController]getUserInfo获取到的用户数量是
+8[User{, username='string', password='string', name='string'}, User{, username='string', password='string', name='string'}, User{, username='456', password='123', name='王玮铠'}, User{, username='123456', password='19940493', name='喻明凤'}, User{, username='string', password='string', name='string'}, User{, username='string', password='string', name='string'}, User{, username='string', password='string', name='string'}, User{, username='string', password='string', name='string'}]
+[INFO][22-07-27][com.itheima.controller.MybatisController]getUserInfo获取到的用户
+[User{, username='string', password='string', name='string'}, User{, username='string', password='string', name='string'}, User{, username='456', password='123', name='王玮铠'}, User{, username='123456', password='19940493', name='喻明凤'}, User{, username='string', password='string', name='string'}, User{, username='string', password='string', name='string'}, User{, username='string', password='string', name='string'}, User{, username='string', password='string', name='string'}]
+[INFO][22-07-27][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-07-27][com.itheima.controller.MybatisController]cookies为空
+[INFO][22-07-27][com.itheima.controller.MybatisController]获取的false
+[INFO][22-07-27][com.itheima.controller.MybatisController]添加用户的数量是:1
+[INFO][22-07-27][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-07-27][com.itheima.controller.MybatisController]cookies为空
+[INFO][22-07-27][com.itheima.controller.MybatisController]获取的false
+[INFO][22-07-27][com.itheima.controller.MybatisController]添加用户的数量是:1
+[INFO][22-07-27][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-07-27][com.itheima.controller.MybatisController]cookies为空
+[INFO][22-07-27][com.itheima.controller.MybatisController]获取的false
+[INFO][22-07-27][com.itheima.controller.MybatisController]添加用户的数量是:1
+[INFO][22-07-27][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-07-27][com.itheima.controller.MybatisController]cookies为空
+[INFO][22-07-27][com.itheima.controller.MybatisController]获取的false
+[INFO][22-07-27][com.itheima.controller.MybatisController]添加用户的数量是:1
+[INFO][22-07-27][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-07-27][com.itheima.controller.MybatisController]cookies为空
+[INFO][22-07-27][com.itheima.controller.MybatisController]获取的false
+[INFO][22-07-27][com.itheima.controller.MybatisController]添加用户的数量是:1
+[INFO][22-07-27][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-07-27][com.itheima.controller.MybatisController]cookies为空
+[INFO][22-07-27][com.itheima.controller.MybatisController]获取的false
+[INFO][22-07-27][com.itheima.controller.MybatisController]添加用户的数量是:1
+[INFO][22-07-27][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-07-27][com.itheima.controller.MybatisController]cookies为空
+[INFO][22-07-27][com.itheima.controller.MybatisController]获取的false
+[INFO][22-07-27][com.itheima.controller.MybatisController]添加用户的数量是:1
+[INFO][22-07-27][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-07-27][com.itheima.controller.MybatisController]cookies为空
+[INFO][22-07-27][com.itheima.controller.MybatisController]获取的false
+[INFO][22-07-27][com.itheima.controller.MybatisController]添加用户的数量是:1
+[INFO][22-07-27][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-07-27][com.itheima.controller.MybatisController]cookies为空
+[INFO][22-07-27][com.itheima.controller.MybatisController]获取的false
+[INFO][22-07-27][com.itheima.controller.MybatisController]添加用户的数量是:1
+[INFO][22-07-27][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-07-27][com.itheima.controller.MybatisController]cookies为空
+[INFO][22-07-27][com.itheima.controller.MybatisController]获取的false
+[INFO][22-07-27][com.itheima.controller.MybatisController]添加用户的数量是:1
+[INFO][22-07-27][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-07-27][com.itheima.controller.MybatisController]cookies为空
+[INFO][22-07-27][com.itheima.controller.MybatisController]获取的false
+[INFO][22-07-27][com.itheima.controller.MybatisController]添加用户的数量是:1
+[INFO][22-07-27][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-07-27][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-07-27][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-07-27][com.itheima.controller.MybatisController]User{, username='string', password='1', name='1'}
+[INFO][22-07-27][com.itheima.controller.MybatisController]User{, username='string', password='1', name='1'}
+[INFO][22-07-27][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-07-27][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-07-27][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-07-27][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-07-27][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-07-27][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-07-27][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-07-27][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-07-27][com.itheima.controller.MybatisController]getUserInfo获取到的用户数量是
+2[User{, username='string', password='string', name='string'}, User{, username='string', password='string', name='string'}]
+[INFO][22-07-27][com.itheima.controller.MybatisController]getUserInfo获取到的用户
+[User{, username='string', password='string', name='string'}, User{, username='string', password='string', name='string'}]
+[INFO][22-07-27][com.itheima.controller.MybatisController]getUserInfo获取到的用户数量是
+2[User{, username='string', password='string', name='string'}, User{, username='string', password='string', name='string'}]
+[INFO][22-07-27][com.itheima.controller.MybatisController]getUserInfo获取到的用户
+[User{, username='string', password='string', name='string'}, User{, username='string', password='string', name='string'}]
+[INFO][22-07-27][com.itheima.controller.MybatisController]getUserInfo获取到的用户数量是
+2[User{, username='string', password='string', name='string'}, User{, username='string', password='string', name='string'}]
+[INFO][22-07-27][com.itheima.controller.MybatisController]getUserInfo获取到的用户
+[User{, username='string', password='string', name='string'}, User{, username='string', password='string', name='string'}]
+[INFO][22-07-27][com.itheima.controller.MybatisController]getUserInfo获取到的用户数量是
+2[User{, username='string', password='string', name='string'}, User{, username='string', password='string', name='string'}]
+[INFO][22-07-27][com.itheima.controller.MybatisController]getUserInfo获取到的用户
+[User{, username='string', password='string', name='string'}, User{, username='string', password='string', name='string'}]
+[INFO][22-07-27][com.itheima.controller.MybatisController]getUserInfo获取到的用户数量是
+2[User{, username='string', password='string', name='string'}, User{, username='string', password='string', name='string'}]
+[INFO][22-07-27][com.itheima.controller.MybatisController]getUserInfo获取到的用户
+[User{, username='string', password='string', name='string'}, User{, username='string', password='string', name='string'}]
+[INFO][22-07-27][com.itheima.controller.MybatisController]getUserInfo获取到的用户数量是
+2[User{, username='string', password='string', name='string'}, User{, username='string', password='string', name='string'}]
+[INFO][22-07-27][com.itheima.controller.MybatisController]getUserInfo获取到的用户
+[User{, username='string', password='string', name='string'}, User{, username='string', password='string', name='string'}]
+[INFO][22-07-27][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-07-27][com.itheima.controller.MybatisController]cookies为空
+[INFO][22-07-27][com.itheima.controller.MybatisController]获取的false
+[INFO][22-07-27][com.itheima.controller.MybatisController]添加用户的数量是:1
+[INFO][22-07-27][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-07-27][com.itheima.controller.MybatisController]查询用户信息[]
+[INFO][22-07-27][com.itheima.controller.MybatisController]cookies为空
+[INFO][22-07-27][com.itheima.controller.MybatisController]获取的false
+[INFO][22-07-27][com.itheima.controller.MybatisController]添加用户的数量是:1
+[INFO][22-07-27][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-07-27][com.itheima.controller.MybatisController]查询用户信息[]
+[INFO][22-07-27][com.itheima.controller.MybatisController]cookies为空
+[INFO][22-07-27][com.itheima.controller.MybatisController]获取的false
+[INFO][22-07-27][com.itheima.controller.MybatisController]添加用户的数量是:1
+[INFO][22-07-28][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-07-28][com.itheima.controller.MybatisController]查询用户信息null
+[INFO][22-07-28][com.itheima.controller.MybatisController]cookies为空
+[INFO][22-07-28][com.itheima.controller.MybatisController]获取的false
+[INFO][22-07-28][com.itheima.controller.MybatisController]添加用户的数量是:1
+[INFO][22-07-28][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-07-28][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-07-28][com.itheima.controller.MybatisController]查询用户信息[]
+[INFO][22-07-28][com.itheima.controller.MybatisController]cookies为空
+[INFO][22-07-28][com.itheima.controller.MybatisController]获取的false
+[INFO][22-07-28][com.itheima.controller.MybatisController]添加用户的数量是:1
+[INFO][22-07-28][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-07-28][com.itheima.controller.MybatisController]查询用户信息[]
+[INFO][22-07-28][com.itheima.controller.MybatisController]cookies为空
+[INFO][22-07-28][com.itheima.controller.MybatisController]获取的false
+[INFO][22-07-28][com.itheima.controller.MybatisController]添加用户的数量是:1
+[INFO][22-07-28][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-07-28][com.itheima.controller.MybatisController]查询用户信息[]
+[INFO][22-07-28][com.itheima.controller.MybatisController]cookies为空
+[INFO][22-07-28][com.itheima.controller.MybatisController]获取的false
+[INFO][22-07-28][com.itheima.controller.MybatisController]添加用户的数量是:1
+[INFO][22-07-28][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-07-28][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-07-28][com.itheima.controller.MybatisController]查询用户信息[]
+[INFO][22-07-28][com.itheima.controller.MybatisController]cookies为空
+[INFO][22-07-28][com.itheima.controller.MybatisController]获取的false
+[INFO][22-07-28][com.itheima.controller.MybatisController]添加用户的数量是:1
+[INFO][22-07-28][com.itheima.controller.MybatisController]删除的数据10
+[INFO][22-07-28][com.itheima.controller.MybatisController]User{, username='123456', password='123456', name='王玮铠'}
+[INFO][22-07-28][com.itheima.controller.MybatisController]查询用户信息[]
+[INFO][22-07-28][com.itheima.controller.MybatisController]cookies为空
+[INFO][22-07-28][com.itheima.controller.MybatisController]获取的false
+[INFO][22-07-28][com.itheima.controller.MybatisController]添加用户的数量是:1
+[INFO][22-07-28][com.itheima.controller.MybatisController]删除的数据0
+[INFO][22-07-28][com.itheima.controller.MybatisController]getUserInfo获取到的用户数量是
+1[User{, username='123456', password='123456', name='王玮铠'}]
+[INFO][22-07-28][com.itheima.controller.MybatisController]getUserInfo获取到的用户
+[User{, username='123456', password='123456', name='王玮铠'}]
+[INFO][22-07-29][com.itheima.controller.MybatisController]getUserInfo获取到的用户数量是
+1[User{, username='123456', password='123456', name='王玮铠'}]
+[INFO][22-07-29][com.itheima.controller.MybatisController]getUserInfo获取到的用户
+[User{, username='123456', password='123456', name='王玮铠'}]
+[INFO][22-07-29][com.itheima.controller.MybatisController]getUserInfo获取到的用户数量是
+1[User{, username='123456', password='123456', name='王玮铠'}]
+[INFO][22-07-29][com.itheima.controller.MybatisController]getUserInfo获取到的用户
+[User{, username='123456', password='123456', name='王玮铠'}]
+[INFO][22-07-30][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-07-30][com.itheima.controller.MybatisController]getUserInfo获取到的用户数量是
+1[User{, username='123456', password='123456', name='王玮铠'}]
+[INFO][22-07-30][com.itheima.controller.MybatisController]getUserInfo获取到的用户
+[User{, username='123456', password='123456', name='王玮铠'}]
+[INFO][22-07-30][com.itheima.controller.MybatisController]getUserInfo获取到的用户数量是
+[]
+[INFO][22-07-30][com.itheima.controller.MybatisController]getUserInfo获取到的用户
+[]
+[INFO][22-07-30][com.itheima.controller.MybatisController]getUserInfo获取到的用户数量是
+[]
+[INFO][22-07-30][com.itheima.controller.MybatisController]getUserInfo获取到的用户
+[]
+[INFO][22-07-30][com.itheima.controller.MybatisController]getUserInfo获取到的用户数量是
+[]
+[INFO][22-07-30][com.itheima.controller.MybatisController]getUserInfo获取到的用户
+[]
+[INFO][22-07-30][com.itheima.controller.MybatisController]getUserInfo获取到的用户数量是
+[]
+[INFO][22-07-30][com.itheima.controller.MybatisController]getUserInfo获取到的用户
+[]
+[INFO][22-07-30][com.itheima.controller.MybatisController]getUserInfo获取到的用户数量是
+[]
+[INFO][22-07-30][com.itheima.controller.MybatisController]getUserInfo获取到的用户
+[]
+[INFO][22-07-30][com.itheima.controller.MybatisController]用户信息为
+[]
+[INFO][22-07-30][com.itheima.controller.MybatisController]查询到了
+[INFO][22-07-30][com.itheima.controller.MybatisController]User{, username='123456', password='123456', name='王玮铠'}
+[INFO][22-07-30][com.itheima.controller.MybatisController]User{, username='123456', password='123456', name='王玮铠'}
+[INFO][22-07-30][com.itheima.controller.MybatisController]User{, username='123456', password='123456', name='王玮铠'}
+[INFO][22-07-30][com.itheima.controller.MybatisController]没有查询到该数据
+[INFO][22-07-30][com.itheima.controller.MybatisController]User{, username='123456', password='123456', name='王玮铠'}
+[INFO][22-07-30][com.itheima.controller.MybatisController]没有查询到该数据
+[INFO][22-07-30][com.itheima.controller.MybatisController]getUserInfo获取到的用户数量是
+1[User{, username='123456', password='123456', name='王玮铠'}]
+[INFO][22-07-30][com.itheima.controller.MybatisController]getUserInfo获取到的用户
+[User{, username='123456', password='123456', name='王玮铠'}]
+[INFO][22-07-30][com.itheima.controller.MybatisController]没有查询到该数据
+[INFO][22-07-30][com.itheima.controller.MybatisController]User{, username='123456', password='123456', name='王玮铠'}
+[INFO][22-07-30][com.itheima.controller.MybatisController]没有查询到该数据
+[INFO][22-07-30][com.itheima.controller.MybatisController]没有查询到该数据
+[INFO][22-07-30][com.itheima.controller.MybatisController]没有查询到该数据
+[INFO][22-07-30][com.itheima.controller.MybatisController]User{, username='654321', password='123456', name='喻明凤'}
+[INFO][22-07-30][com.itheima.controller.MybatisController]查询用户信息[]
+[INFO][22-07-30][com.itheima.controller.MybatisController]cookies为空
+[INFO][22-07-30][com.itheima.controller.MybatisController]获取的false
+[INFO][22-07-30][com.itheima.controller.MybatisController]添加用户的数量是:1
+[INFO][22-07-30][com.itheima.controller.MybatisController]没有查询到该数据
+[INFO][22-07-30][com.itheima.controller.MybatisController]User{, username='654321', password='123456', name='喻明凤'}
+[INFO][22-07-30][com.itheima.controller.MybatisController]getUserInfo获取到的用户数量是
+2[User{, username='123456', password='123456', name='王玮铠'}, User{, username='654321', password='123456', name='喻明凤'}]
+[INFO][22-07-30][com.itheima.controller.MybatisController]getUserInfo获取到的用户
+[User{, username='123456', password='123456', name='王玮铠'}, User{, username='654321', password='123456', name='喻明凤'}]
+[INFO][22-07-30][com.itheima.controller.MybatisController]删除的数据0
+[INFO][22-07-30][com.itheima.controller.MybatisController]删除的数据1
+[INFO][22-07-30][com.itheima.controller.MybatisController]删除的数据0
+[INFO][22-07-30][com.itheima.controller.MybatisController]删除的数据0
+[INFO][22-07-30][com.itheima.controller.MybatisController]没有查询到该数据
+[INFO][22-07-30][com.itheima.controller.MybatisController]删除的数据0
+[INFO][22-07-30][com.itheima.controller.MybatisController]没有查询到该数据
+[INFO][22-07-30][com.itheima.controller.MybatisController]删除的数据0
+[INFO][22-07-30][com.itheima.controller.MybatisController]没有查询到该数据
+[INFO][22-07-30][com.itheima.controller.MybatisController]1不存在该用户信息
+[INFO][22-07-30][com.itheima.controller.MybatisController]删除的数据0
+[INFO][22-07-30][com.itheima.controller.MybatisController]没有查询到该数据
+[INFO][22-07-30][com.itheima.controller.MybatisController]1不存在该用户信息
+[INFO][22-07-30][com.itheima.controller.MybatisController]删除的数据0
+[INFO][22-07-30][com.itheima.controller.MybatisController]没有查询到该数据
+[INFO][22-07-30][com.itheima.controller.MybatisController]没有查询到该数据
+[INFO][22-07-30][com.itheima.controller.MybatisController]没有查询到该数据
+[INFO][22-07-30][com.itheima.controller.MybatisController]没有查询到该数据
+[INFO][22-07-30][com.itheima.controller.MybatisController]没有查询到该数据
+[INFO][22-07-30][com.itheima.controller.MybatisController]没有查询到该数据
+[INFO][22-07-30][com.itheima.controller.MybatisController]没有查询到该数据
+[INFO][22-07-30][com.itheima.controller.MybatisController]没有查询到该数据
+[INFO][22-07-31][com.itheima.controller.MybatisController]没有查询到该数据
+[INFO][22-07-31][com.itheima.controller.MybatisController]没有查询到该数据
+[INFO][22-07-31][com.itheima.controller.MybatisController]没有查询到该数据
+[INFO][22-07-31][com.itheima.controller.MybatisController]没有查询到该数据
+[INFO][22-07-31][com.itheima.controller.MybatisController]没有查询到该数据
+[INFO][22-07-31][com.itheima.controller.MybatisController]没有查询到该数据
+[INFO][22-07-31][com.itheima.controller.MybatisController]getUserInfo获取到的用户数量是
+1[User{, username='123456', password='123456', name='王玮铠'}]
+[INFO][22-07-31][com.itheima.controller.MybatisController]getUserInfo获取到的用户
+[User{, username='123456', password='123456', name='王玮铠'}]
+[INFO][22-08-16][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-08-16][com.itheima.controller.MybatisController]查询用户信息[]
+[INFO][22-08-16][com.itheima.controller.MybatisController]cookies为空
+[INFO][22-08-16][com.itheima.controller.MybatisController]获取的false
+[INFO][22-08-16][com.itheima.controller.MybatisController]添加用户的数量是:1
+[INFO][22-08-16][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-08-16][com.itheima.controller.MybatisController]查询用户信息[]
+[INFO][22-08-16][com.itheima.controller.MybatisController]cookies为空
+[INFO][22-08-16][com.itheima.controller.MybatisController]获取的false
+[INFO][22-08-16][com.itheima.controller.MybatisController]添加用户的数量是:1
+[INFO][22-09-21][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-09-21][com.itheima.controller.MybatisController]查询用户信息[]
+[INFO][22-09-21][com.itheima.controller.MybatisController]cookies为空
+[INFO][22-09-21][com.itheima.controller.MybatisController]获取的false
+[INFO][22-09-21][com.itheima.controller.MybatisController]添加用户的数量是:1
+[INFO][22-09-21][com.itheima.controller.MybatisController]User{, username='string', password='string', name='string'}
+[INFO][22-09-21][com.itheima.controller.MybatisController]查询用户信息[]
+[INFO][22-09-21][com.itheima.controller.MybatisController]cookies为空
+[INFO][22-09-21][com.itheima.controller.MybatisController]获取的false
+[INFO][22-09-21][com.itheima.controller.MybatisController]添加用户的数量是:1
+[INFO][22-09-21][com.itheima.controller.MybatisController]User{, username='王麻子', password='李四', name='张三'}
+[INFO][22-09-21][com.itheima.controller.MybatisController]查询用户信息[]
+[INFO][22-09-21][com.itheima.controller.MybatisController]cookies为空
+[INFO][22-09-21][com.itheima.controller.MybatisController]获取的false
+[INFO][22-09-21][com.itheima.controller.MybatisController]添加用户的数量是:1
